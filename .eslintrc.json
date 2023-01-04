@@ -47,6 +47,7 @@
     "react/require-default-props": "off",
     "react/forbid-prop-types": "off",
     "import/extensions": "off",
+    "linebreak-style": "off",
     "react/jsx-props-no-spreading": "off",
     "react/function-component-definition": [
       2,
