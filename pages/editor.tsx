@@ -1,9 +1,9 @@
 import type { NextPage } from 'next';
 
-const Editor: NextPage = () => (
-  <div>
-    <p>Editor</p>
-  </div>
+const Home: NextPage = () => (
+  <main>
+    <p>Edytor</p>
+  </main>
 );
 
-export default Editor;
+export default Home;

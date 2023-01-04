@@ -1,9 +1,9 @@
 import type { NextPage } from 'next';
 
-const Instruction: NextPage = () => (
-  <div>
+const Home: NextPage = () => (
+  <main>
     <p>Instrukcja</p>
-  </div>
+  </main>
 );
 
-export default Instruction;
+export default Home;
