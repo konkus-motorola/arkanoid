@@ -7,7 +7,8 @@ type Data = {
 
 export default function handler(
   req: NextApiRequest,
-  res: NextApiResponse<Data>,
+  // eslint-disable-next-line comma-dangle
+  res: NextApiResponse<Data>
 ) {
   res.status(200).json({ name: 'John Doe' });
 }
